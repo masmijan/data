@@ -8,8 +8,7 @@
 
 <body>
 
-    <div id="header"><div id="headbox"><h2>MUKADIMAH</h2>
-    </div></div>
+    ## MUKADIMAH
 
 <div id="single">
     	<div id="isi">
