@@ -27,10 +27,6 @@
    	        </div>
     	</div>
     
-<div class="navigasi"><a href="index.html"><img src="images2/icon-home.png"/></a><a href="2.html"class="kanan"><img src="images2/kanan.png" /></a></div>
-
-<div id="footer">
-<div id="footerbox">
 
 </div>
 </div> 
